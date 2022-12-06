@@ -1,0 +1,6 @@
+Attributes give the additional information about an html elements.
+How to add styles on html elements
+Like color,font,size and more.
+
+How to change bg color of a webpage?
+<body style="background-color:powderblue;">
